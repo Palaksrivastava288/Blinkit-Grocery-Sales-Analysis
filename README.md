@@ -1,4 +1,3 @@
-# Blinkit-Grocery-Sales-Analysis
 # Blinkit Grocery Sales Analysis
 
 ## Project Overview
